@@ -1,0 +1,20 @@
+@media screen and (max-width: 900px){
+	body{
+		background-color: #65371C;
+	}
+	#middlePic{
+		display: none;
+	}
+	#separte{
+		display: none;
+	}
+	.preshow{
+		width:100%
+		display: block;
+		float: right;
+		margin: 30px;
+	}
+	#menu{
+		width: 100%;
+	}
+}

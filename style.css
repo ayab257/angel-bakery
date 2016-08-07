@@ -90,3 +90,21 @@ header{
 .preshow img{
 	float: right;
 }
+ footer{ 
+ 	margin: 0 auto;
+ 	width: 50%;
+ 	height: 10%;
+ 	color: #9E7340;
+ }
+#rights{
+	float: right;
+}
+#design ul{
+	list-style:none;
+	float: left;
+    direction: rtl;
+}
+#design ul li{
+	float: left;
+	padding-left: 2px;
+}
